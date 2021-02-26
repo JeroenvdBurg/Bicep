@@ -10,6 +10,8 @@ There are different modules
 4. app-service-plan > deployed app service plan
 5. app-service > deployed app service + appinsight (optional deploy with staging slot)
 
+deploy_all_modules > deployed full setup (storage, sql, web, cms, api)
+
 ## how to run?
 
 ```
