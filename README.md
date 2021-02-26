@@ -12,7 +12,10 @@ There are different modules
 
 deploy_all_modules > deployed full setup (storage, sql, web, cms, api)
 
-## how to run?
+## how to run bicep?
+
+install the bicep CLI
+https://github.com/Azure/bicep/blob/main/docs/installing.md
 
 ```
 bicep build deploy_all_modules.bicep
